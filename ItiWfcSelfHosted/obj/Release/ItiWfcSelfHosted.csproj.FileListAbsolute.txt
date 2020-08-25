@@ -1,0 +1,7 @@
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\bin\Release\ItiWfcSelfHosted.exe.config
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\bin\Release\ItiWfcSelfHosted.exe
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\bin\Release\ItiWfcSelfHosted.pdb
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\obj\Release\ItiWfcSelfHosted.csproj.CoreCompileInputs.cache
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\obj\Release\ItiWfcSelfHosted.exe
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\obj\Release\ItiWfcSelfHosted.pdb
+C:\Users\Mashael\source\repos\ItiWfcSelfHosted\ItiWfcSelfHosted\obj\Release\ItiWfcSelfHosted.csprojAssemblyReference.cache
